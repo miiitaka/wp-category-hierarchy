@@ -1,5 +1,5 @@
 # wp-category-hierarchy
-WordPress : Plug-in WordPress Category Hierarchy.
+WordPress : Plug-in Category Hierarchy.
 
 A plugin that adds a widget to display the categories below the current category on the category page.
 

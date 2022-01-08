@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WordPress Category Hierarchy
+Plugin Name: Category Hierarchy
 Plugin URI: https://github.com/miiitaka/wp-category-hierarchy
 Description: A plugin that adds a widget to display the categories below the current category on the category page.
 Version: 1.0.0
